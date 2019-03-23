@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: product
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username: root
+#    password: root
+#    url: jdbc:mysql://localhost:3306/cloud1?serverTimezone=GMT%2B8&characterEncoding=utf-8&useSSL=false
+#  jpa:
+#    show-sql: true
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG
+      profile: dev
+      label: release
+server:
+  port: 8082
+  #目前没啥用
+#ribbon:
+#  eureka:
+#    enabled: true
+
+#更改指定包的日志级别 此处为了看spring-cloud-starter-sleuth组件的日志（追踪）
+logging:
+  level:
+    org.springframework.cloud.openfeign: debug

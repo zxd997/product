@@ -1,0 +1,17 @@
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\enums\ProductStatusEnum.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\model\ProductCategory.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\controller\ServerController.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\vo\ProductInfoVO.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\service\ProductService.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\controller\ProductController.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\ProductApplication.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\repository\ProductCategoryRepository.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\repository\ProductInfoRepository.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\utils\ResultVOUtil.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\vo\ProductVO.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\exception\ProductException.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\service\impl\ProductServiceImpl.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\enums\ResultEnum.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\vo\ResultVO.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\service\CategoryService.java
+D:\JavaProject\cloud3copy\product\server\src\main\java\com\zxd\product\service\impl\CategoryServiceImpl.java
